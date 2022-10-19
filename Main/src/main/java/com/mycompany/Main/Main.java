@@ -27,6 +27,11 @@ public class Main {
         case 1:
             result = num1 + num2;
             break;
+            
+        case 2:
+            result = num1 - num2;
+            break;
+            
     }
     
     System.out.println("Resultado igual a: "+ result);
